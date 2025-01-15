@@ -1,4 +1,8 @@
-# Marp Slides Template
+# Marp Slides 
+
+
+Reference: https://chris-ayers.com/2023/03/26/marp-create-presentations-with-markdown
+
 
 [Use this template!](https://github.com/codebytes/marp-slides-template/generate)
 
